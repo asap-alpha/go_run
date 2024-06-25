@@ -34,4 +34,16 @@ func main() {
 
 	fmt.Println("pointer ==>> ", sp)
 
+	cat := struct {
+		name  string
+		color string
+		age   int
+	}{
+		name:  sp.name,
+		color: "Dart Brown",
+		age:   sp.age,
+	}
+
+	fmt.Println("#d cat => ", cat)
+
 }
