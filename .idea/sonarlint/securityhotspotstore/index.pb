@@ -15,3 +15,6 @@ pointer.go,0\1\01ae812abd673cc063d4c49df0a82d2f9d5231f9
 runne.go,3\3\330227cf087fe416fdb4447f7b10cf00dc7efd3e
 9
 	struct.go,9\a\9a4a510d4cf6168224e9ea9e3a72101f730c955d
+:
+
+methods.go,e\a\ea83307ea987d393e6e22b780ac573cf4b2e5f88
