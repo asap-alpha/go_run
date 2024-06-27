@@ -18,3 +18,5 @@ pointer.go,0\1\01ae812abd673cc063d4c49df0a82d2f9d5231f9
 :
 
 methods.go,e\a\ea83307ea987d393e6e22b780ac573cf4b2e5f88
+<
+interface.go,7\3\731af56d00b9cfb85ed1c7eb7f89b9b3f64d5149
