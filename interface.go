@@ -56,7 +56,7 @@ func main() {
 
 	rectangle := React{height: 10, width: 2}
 	measure(rectangle)
-	
+
 	circle := Circle{radius: 4}
 	measure(circle)
 
