@@ -22,3 +22,6 @@ methods.go,e\a\ea83307ea987d393e6e22b780ac573cf4b2e5f88
 interface.go,7\3\731af56d00b9cfb85ed1c7eb7f89b9b3f64d5149
 8
 enums.go,a\a\aa70d2689b0ea1eef4ae8c12d18bc9941ed54f25
+:
+
+generic.go,2\3\23b990081d0912ccf75cba1d12b99f15bff7253c
