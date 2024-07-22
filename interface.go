@@ -53,7 +53,7 @@ type geoEnum int
 
 const (
 	runArea geoEnum = iota
-	runperimeter
+	runPerimeter
 )
 
 // a function behalf as inheritor of the geometry interface
@@ -64,7 +64,7 @@ func measure(geometry Geometry, enum geoEnum) {
 	case runArea:
 		fmt.Println(geometry.area())
 		break
-	case runperimeter:
+	case runPerimeter:
 		fmt.Println(geometry.perimeter())
 		break
 	default:
@@ -75,10 +75,10 @@ func measure(geometry Geometry, enum geoEnum) {
 func main() {
 
 	rectangle := React{height: 10, width: 2}
-	measure(rectangle, runperimeter)
+	measure(rectangle, runPerimeter)
 
 	circle := Circle{radius: 4}
-	measure(circle, runperimeter)
+	measure(circle, runPerimeter)
 
 	fmt.Println("lets run for area")
 	rect := React{height: 10, width: 2}
